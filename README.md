@@ -5,14 +5,15 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Desarrollo software y automatizo procesos, principalmente en entornos web.  
+## 👨🏻‍💻 Sobre mí
+
+💡 &nbsp;Desarrollo software y automatizo procesos en entornos web.  
 🎓 &nbsp;Estudio Ingeniería de Software.  
-🚀 &nbsp;Tengo experiencia construyendo soluciones tipo SaaS y sistemas con APIs.  
-🌱 &nbsp;Actualmente sigo aprendiendo sobre arquitectura de software y cloud.  
-⚙️ &nbsp;Experiencia práctica en tareas DevOps (deploys, servidores, configs).  
-🎨 &nbsp;También tengo conocimientos en diseño UI/UX.  
-📊 &nbsp;Enfocado en automatización, SaaS y dashboards  
-💬 &nbsp;Abierto a conversar sobre desarrollo y proyectos tech.  
+🚀 &nbsp;Experiencia construyendo soluciones tipo SaaS e integraciones con APIs.  
+⚙️ &nbsp;Manejo despliegues y configuración de servidores (prácticas DevOps).  
+🎨 &nbsp;Conocimientos en diseño UI/UX.  
+📊 &nbsp;Interesado en automatización, dashboards y arquitectura de software.  
+💬 &nbsp;Abierto a colaborar en proyectos y conversar sobre tecnología.
 
 ---
 ### 🛠 &nbsp;Stack Tecnológico
