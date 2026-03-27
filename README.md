@@ -3,9 +3,9 @@
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
 <h2>¡Hola! Soy Rommel</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+---
 
-## 👨🏻‍💻 Sobre mí
+### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;Desarrollo software y automatizo procesos en entornos web.  
 🎓 &nbsp;Estudio Ingeniería de Software.  
