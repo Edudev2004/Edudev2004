@@ -61,7 +61,9 @@
 
 ### 📊 &nbsp;Estadísticas de GitHub
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Edudev2004&theme=react-dark"/>
+<a href="https://github.com/Edudev2004">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edudev2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</a>
 
 ---
 
