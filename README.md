@@ -59,6 +59,14 @@
 
 ---
 
+### 🧊 Calendario de Contribuciones 3D
+
+<div align="center">
+  <img alt="Gráfica de Contribuciones 3D" src="https://raw.githubusercontent.com/Edudev2004/Edudev2004/main/profile-3d-contrib/profile-night-rainbow.svg">
+</div>
+
+---
+
 ### 📊 &nbsp;Estadísticas de GitHub
 
 <a href="https://github.com/Edudev2004">
@@ -79,10 +87,3 @@
 
 ---
 
-### 🧊 Calendario de Contribuciones 3D
-
-<div align="center">
-  <img alt="Gráfica de Contribuciones 3D" src="https://raw.githubusercontent.com/Edudev2004/Edudev2004/main/profile-3d-contrib/profile-night-rainbow.svg">
-</div>
-
----
