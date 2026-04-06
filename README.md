@@ -67,12 +67,22 @@
 
 ---
 
- ### ⏱ Streak Stats
- 
-<div align=center>
-  
-[![GitHub Streak](https://streak-stats.demolab.com?user=Edudev2004&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+### 🐍 Snake Game de Contribuciones
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Edudev2004/Edudev2004/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Edudev2004/Edudev2004/output/github-snake.svg">
+    <img alt="Snake Game de Mis Commits Diarios" src="https://raw.githubusercontent.com/Edudev2004/Edudev2004/output/github-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 🧊 Calendario de Contribuciones 3D
+
+<div align="center">
+  <img alt="Gráfica de Contribuciones 3D" src="https://raw.githubusercontent.com/Edudev2004/Edudev2004/main/profile-3d-contrib/profile-night-rainbow.svg">
 </div>
 
 ---
