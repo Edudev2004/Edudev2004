@@ -10,7 +10,7 @@
 💡 &nbsp;Desarrollo software y automatizo procesos en entornos web.  
 🎓 &nbsp;Estudio Ingeniería de Software.  
 🚀 &nbsp;Experiencia construyendo soluciones tipo SaaS e integraciones con APIs.  
-⚙️ &nbsp;Manejo despliegues y configuración de servidores (prácticas DevOps).  
+⚙️ &nbsp;Manejo despliegues y configuración de servidores.  
 🎨 &nbsp;Conocimientos en diseño UI/UX.  
 📊 &nbsp;Interesado en automatización, dashboards y arquitectura de software.  
 💬 &nbsp;Abierto a colaborar en proyectos y conversar sobre tecnología.
