@@ -7,11 +7,13 @@
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;+1 año de experiencia desarrollando software y administrando infraestructura en entornos de producción.
-🎓 &nbsp;Estudiante universitario en Perú, cursando Seguridad de la Información y Algoritmos y Estructuras de Datos.
-🛠️ &nbsp;Administro un VPS cPanel/WHM (AlmaLinux) con múltiples servicios de producción en **Promolider**.
-🚀 &nbsp;Experiencia construyendo pipelines CI/CD, APIs backend y resolviendo incidentes críticos en producción.
-🤖 &nbsp;Interesado en aplicaciones impulsadas por IA: predicción deportiva, chatbots y automatización.
+💡 &nbsp;+1 año de experiencia desarrollando software y administrando infraestructura en entornos de producción.<br>
+🎓 &nbsp;Estudiante universitario en Perú de Ingeniería de Software, cursando Seguridad de la Información y Servicios Cloud.<br>
+🛠️ &nbsp;Administro un VPS cPanel/WHM (AlmaLinux) con múltiples servicios de producción en **Promolider**.<br>
+🔐 &nbsp;Conocimientos en ciberseguridad: hardening de servidores, configuración de firewall, políticas SSH y protección con Fail2ban.<br>
+📈 &nbsp;Monitoreo de infraestructura con Prometheus, Node Exporter y Grafana.<br>
+🚀 &nbsp;Experiencia construyendo pipelines CI/CD, APIs backend y resolviendo incidentes críticos en producción.<br>
+🤖 &nbsp;Interesado en aplicaciones impulsadas por IA.<br>
 💬 &nbsp;Abierto a colaborar en proyectos y conversar sobre tecnología.
 
 ---
@@ -45,6 +47,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 
+### 🔐 Seguridad & Monitoreo
+![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-%23000000.svg?style=for-the-badge)
+![SSH Hardening](https://img.shields.io/badge/SSH%20Hardening-%23412991.svg?style=for-the-badge)
+![Firewall](https://img.shields.io/badge/Firewall-%23D93F3F.svg?style=for-the-badge)
+
 ### 🛠 Herramientas
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -59,11 +68,12 @@
 
 ### 💼 &nbsp;En qué estoy trabajando
 
-🔧 &nbsp;Administración de infraestructura de producción: CI/CD con runners self-hosted, despliegues, monitoreo y resolución de incidentes
-⚙️ &nbsp;Pipelines automatizados con GitHub Actions (SSH/rsync) para backend y frontend
-🏗️ &nbsp;APIs REST con arquitectura hexagonal en NestJS y Laravel
-🤖 &nbsp;Proyectos de IA aplicada: predicción deportiva con distribución de Poisson y sistemas de chatbot conversacional
-👥 &nbsp;Coordinación de equipo de desarrollo en un SPA con Vue 3 y backend hexagonal
+🔧 &nbsp;Administración de infraestructura de producción: CI/CD con runners self-hosted, despliegues, monitoreo y resolución de incidentes.<br>
+⚙️ &nbsp;Pipelines automatizados con GitHub Actions (SSH/rsync) para backend y frontend.<br>
+🏗️ &nbsp;APIs REST con arquitectura hexagonal en NestJS y Laravel.<br>
+🔐 &nbsp;Hardening y monitoreo de servidores: firewall, Fail2ban, políticas SSH y dashboards con Prometheus + Grafana.<br>
+🤖 &nbsp;Proyectos de IA aplicada: predicción deportiva con distribución de Poisson, sistemas de chatbot conversacional, flujos de automatización con n8n.<br>
+👥 &nbsp;**Líder de equipo de desarrollo para proyectos de Promolíder.**
 
 ---
 
@@ -80,11 +90,6 @@
 <a href="https://github.com/Edudev2004">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edudev2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </a>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Edudev2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudev2004&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-</p>
 
 ---
 
