@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
 💡 &nbsp;+1 año de experiencia desarrollando software y administrando infraestructura en entornos de producción.<br>
-🎓 &nbsp;Estudiante universitario en Perú de Ingeniería de Software, cursando Seguridad de la Información y Servicios Cloud.<br>
+🎓 &nbsp;Ingeniería de Software, cursando Seguridad de la Información y Servicios Cloud.<br>
 🛠️ &nbsp;Administro un VPS cPanel/WHM (AlmaLinux) con múltiples servicios de producción en **Promolider**.<br>
 🔐 &nbsp;Conocimientos en ciberseguridad: hardening de servidores, configuración de firewall, políticas SSH y protección con Fail2ban.<br>
 📈 &nbsp;Monitoreo de infraestructura con Prometheus, Node Exporter y Grafana.<br>
