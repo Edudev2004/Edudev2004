@@ -1,18 +1,17 @@
 ![Banner](https://github.com/Edudev2004/Edudev2004/blob/main/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).png?raw=true)
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/>
-<h2>¡Hola! Soy Rommel</h2>
+<h2>¡Hola! Soy Eduardo</h2>
 
 ---
 
 ### 👨🏻‍💻 &nbsp;Sobre mí
 
-💡 &nbsp;Desarrollo software y automatizo procesos en entornos web.  
-🎓 &nbsp;Estudio Ingeniería de Software.  
-🚀 &nbsp;Experiencia construyendo soluciones tipo SaaS e integraciones con APIs.  
-⚙️ &nbsp;Manejo despliegues y configuración de servidores.  
-🎨 &nbsp;Conocimientos en diseño UI/UX.  
-📊 &nbsp;Interesado en automatización, dashboards y arquitectura de software.  
+💡 &nbsp;+1 año de experiencia desarrollando software y administrando infraestructura en entornos de producción.
+🎓 &nbsp;Estudiante universitario en Perú, cursando Seguridad de la Información y Algoritmos y Estructuras de Datos.
+🛠️ &nbsp;Administro un VPS cPanel/WHM (AlmaLinux) con múltiples servicios de producción en **Promolider**.
+🚀 &nbsp;Experiencia construyendo pipelines CI/CD, APIs backend y resolviendo incidentes críticos en producción.
+🤖 &nbsp;Interesado en aplicaciones impulsadas por IA: predicción deportiva, chatbots y automatización.
 💬 &nbsp;Abierto a colaborar en proyectos y conversar sobre tecnología.
 
 ---
@@ -26,21 +25,30 @@
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🌐 Web
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🗄 Bases de Datos
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%232D3748.svg?style=for-the-badge&logo=prisma&logoColor=white)
 
-### ☁️ Herramientas
+### ☁️ Infraestructura & DevOps
+![AlmaLinux](https://img.shields.io/badge/AlmaLinux-%23000000.svg?style=for-the-badge&logo=almalinux&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel%2FWHM-%23FF6C2C.svg?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PM2](https://img.shields.io/badge/PM2-%232B037A.svg?style=for-the-badge&logo=pm2&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🛠 Herramientas
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![cPanel](https://img.shields.io/badge/cPanel-%23FF6C2C.svg?style=for-the-badge)
 
 ### 🎨 Diseño
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,13 +57,13 @@
 
 ---
 
-### ⚙️ &nbsp;En qué estoy trabajando
+### 💼 &nbsp;En qué estoy trabajando
 
-🚀 &nbsp;Plataforma SaaS para automatización de WhatsApp  
-📊 &nbsp;Dashboards con métricas y analítica  
-🤖 &nbsp;Bots conversacionales con flujos tipo nodos  
-🔗 &nbsp;Integraciones con APIs y sistemas backend  
-☁️ &nbsp;Explorando despliegues en la nube con AWS  
+🔧 &nbsp;Administración de infraestructura de producción: CI/CD con runners self-hosted, despliegues, monitoreo y resolución de incidentes
+⚙️ &nbsp;Pipelines automatizados con GitHub Actions (SSH/rsync) para backend y frontend
+🏗️ &nbsp;APIs REST con arquitectura hexagonal en NestJS y Laravel
+🤖 &nbsp;Proyectos de IA aplicada: predicción deportiva con distribución de Poisson y sistemas de chatbot conversacional
+👥 &nbsp;Coordinación de equipo de desarrollo en un SPA con Vue 3 y backend hexagonal
 
 ---
 
@@ -73,6 +81,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edudev2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
 </a>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Edudev2004&show_icons=true&theme=dark&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edudev2004&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+</p>
+
 ---
 
 ### 🐍 Snake Game de Contribuciones
@@ -86,4 +99,3 @@
 </p>
 
 ---
-
