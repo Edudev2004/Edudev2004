@@ -66,7 +66,7 @@
 
 ---
 
-### 💼 &nbsp;En qué estoy trabajando
+### &nbsp;En qué estoy trabajando
 
 🔧 &nbsp;Administración de infraestructura de producción: CI/CD con runners self-hosted, despliegues, monitoreo y resolución de incidentes.<br>
 ⚙️ &nbsp;Pipelines automatizados con GitHub Actions (SSH/rsync) para backend y frontend.<br>
@@ -77,7 +77,7 @@
 
 ---
 
-### 🧊 Calendario de Contribuciones 3D
+### Calendario de Contribuciones 3D
 
 <div align="center">
   <img alt="Gráfica de Contribuciones 3D" src="https://raw.githubusercontent.com/Edudev2004/Edudev2004/main/profile-3d-contrib/profile-night-rainbow.svg">
@@ -85,15 +85,7 @@
 
 ---
 
-### 📊 &nbsp;Estadísticas de GitHub
-
-<a href="https://github.com/Edudev2004">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Edudev2004&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-</a>
-
----
-
-### 🐍 Snake Game de Contribuciones
+### Snake Game de Contribuciones
 
 <p align="center">
   <picture>
